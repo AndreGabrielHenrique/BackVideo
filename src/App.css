@@ -1,0 +1,23 @@
+body
+{
+  background-color: rgb(11, 10, 63);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  height: 100%;
+  color: aliceblue;
+  overflow-x: hidden;
+}
+.nome
+{
+  color: rgba(124, 193, 240, 0.911);
+}
+.aviso
+{
+  font-size: 30px;
+}
+.SiteConstrucao
+{
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
